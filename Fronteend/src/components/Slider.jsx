@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { SectionWrapper } from "../hoc";
 
-import image1 from "../assets/img2.png";
-import image2 from "../assets/img1.png";
-import image3 from "../assets/img3.png";
-import image4 from "../assets/img4.png";
+import image1 from "../assets/Img2.png";
+import image2 from "../assets/Img1.png";
+import image3 from "../assets/Img3.png";
+import image4 from "../assets/Img4.png";
 
 const Slider = () => {
   const images = [image1, image2, image3, image4]; // Array of imported images
